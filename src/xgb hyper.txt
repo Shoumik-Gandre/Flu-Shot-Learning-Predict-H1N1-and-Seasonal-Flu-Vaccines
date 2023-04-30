@@ -1,0 +1,15 @@
+Best trial:
+  Value: 0.8655240177751196
+  Params:
+    booster: dart
+    lambda: 0.7140230812009954
+    alpha: 1.6175277748886985e-07
+    n_estimators: 32
+    max_depth: 5
+    eta: 0.5225844217014856
+    gamma: 2.8043035483101756e-07
+    grow_policy: depthwise
+    sample_type: uniform
+    normalize_type: tree
+    rate_drop: 8.812616601318049e-05
+    skip_drop: 5.645780622823094e-06
